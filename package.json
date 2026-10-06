@@ -1,0 +1,24 @@
+{
+  "name": "ink-bio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hand-crafted bio and portfolio with procedural ink simulation, scratch-off reveal, and vanishing calligraphy ribbon.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "generative-art",
+    "canvas",
+    "calligraphy",
+    "portfolio",
+    "landing-page",
+    "interactive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
